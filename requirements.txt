@@ -1,0 +1,15 @@
+pandas
+scipy 
+streamlit
+openai
+gtts 
+sounddevice
+audiofile
+pyttsx3
+keyboard
+PyPDF2
+langchain
+langchain-community
+langchain-openai
+faiss-cpu
+tiktoken

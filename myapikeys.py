@@ -1,0 +1,2 @@
+# Get your key from: https://platform.openai.com/api-keys
+OPENAI_KEY = "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"  # Replace with your actual OpenAI API key 

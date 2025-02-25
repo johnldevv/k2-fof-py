@@ -1,0 +1,19 @@
+# API Keys and Config
+config.py
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+venv/
+
+# Documents
+documents/pdfs/*
+!documents/pdfs/.gitkeep
+
+# OS files
+.DS_Store
+Thumbs.db 
